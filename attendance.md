@@ -1,5 +1,20 @@
-1)Shreyas Karade
- FY IT
+Amey Kawale
+ FY AIDS
  Description-
- Day-1 first we learned about how to use Github, how to create repo,push/pull files,how to create merge requests. Supervised learning-There are labels data you use for training, Unsupervised learning:There are no labels to datas,Semi_Supervised: Some data has label while some dont have,outlier.Research papers on SLM,NLP,Deepseek R1.
- Day-2 Linear Algebra,Matrix,Straight lines,Coordinate geometry,Sets,probability,We learned how to find the certain keywords,how ml works using diagrams,how to use prompts.
+Day 1
+On the first day, we learned the fundamentals of GitHub, including how to create a repository, push and pull files, and create merge requests. This helped us understand version control and collaborative development.
+We also studied different types of machine learning:
+Supervised Learning – Training a model using labeled data.
+Unsupervised Learning – Working with data that has no labels to discover hidden patterns.
+Semi-Supervised Learning – A combination where some data is labeled and some is unlabeled.
+We also discussed the concept of outliers in datasets.
+Additionally, we explored research areas related to SLMs (Small Language Models), NLP (Natural Language Processing), and studied insights about DeepSeek R1.
+Day 2
+On the second day, we covered important mathematical foundations required for machine learning, including:
+Linear Algebra
+Matrices
+Straight Lines
+Coordinate Geometry
+Sets
+Probability
+We learned how machine learning models work through diagrams and visual explanations. We also practiced identifying important keywords from topics and understood how to write effective prompts for AI systems.
